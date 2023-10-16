@@ -7,7 +7,7 @@ A Gelato Web3 Functions PoC to update a beacons with signed responses from Airno
 ## Description
 The Web3 Function follows the follows the same structure as the airseekeer with the exception that the config file does not need to include sponsor/airseeker menemonic as the W3F returns the callData to the published on-chain
 
-<img src="/docs/airseeker-w3f.png" width="300">
+<img src="docs/airseeker-w3f.png" width="500">
 
 Still API3 to clarify the sponsor wallet mechanism to charge the users for the usage.
 
